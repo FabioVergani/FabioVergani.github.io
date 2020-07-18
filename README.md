@@ -1,3 +1,3 @@
 # FabioVergani.github.io
-Websites for my free projects
+Lab of free projects
 https://fabiovergani.github.io/index.htm
